@@ -1,0 +1,6 @@
+C:\Users\Familia Loaiza\source\repos\ProyectoClasesMetodosyConstructores\bin\Debug\ProyectoClasesMetodosyConstructores.exe.config
+C:\Users\Familia Loaiza\source\repos\ProyectoClasesMetodosyConstructores\bin\Debug\ProyectoClasesMetodosyConstructores.exe
+C:\Users\Familia Loaiza\source\repos\ProyectoClasesMetodosyConstructores\bin\Debug\ProyectoClasesMetodosyConstructores.pdb
+C:\Users\Familia Loaiza\source\repos\ProyectoClasesMetodosyConstructores\obj\Debug\ProyectoClasesMetodosyConstructores.csprojAssemblyReference.cache
+C:\Users\Familia Loaiza\source\repos\ProyectoClasesMetodosyConstructores\obj\Debug\ProyectoClasesMetodosyConstructores.exe
+C:\Users\Familia Loaiza\source\repos\ProyectoClasesMetodosyConstructores\obj\Debug\ProyectoClasesMetodosyConstructores.pdb
